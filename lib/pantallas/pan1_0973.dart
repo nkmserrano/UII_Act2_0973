@@ -12,7 +12,7 @@ class Pantalla1_0973 extends StatelessWidget {
         backgroundColor: const Color(0xfffbe9e7),
         appBar: AppBar(
           title: const Text('Pantalla1 Montiel0973'),
-          backgroundColor: const Color(0xffff7043),
+          backgroundColor: const Color(0xffff8a65),
         ),
         body: Column(
           children: [
