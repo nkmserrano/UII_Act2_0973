@@ -10,7 +10,7 @@ class Pantalla13_0973 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color(0xffa5d6a7),
-        title: const Text('Pantalla 12 Montiel0973'),
+        title: const Text('Pantalla 13 Montiel0973'),
       ),
       body: Center(
         child: Column(
