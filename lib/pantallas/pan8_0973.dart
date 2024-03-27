@@ -20,7 +20,7 @@ class Pantalla8_0973 extends StatelessWidget {
                 padding: const EdgeInsets.all(20),
                 decoration: BoxDecoration(
                   color: const Color(0xFF7e57c2),
-                  borderRadius: BorderRadius.circular(20),
+                  borderRadius: BorderRadius.circular(10),
                 ),
                 child: const Text(
                   'BoleNais',
